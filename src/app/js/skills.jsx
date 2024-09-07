@@ -48,12 +48,12 @@ export default function Skills() {
                         <div className="skill">
                             <Image className="logoPicture" height={50} width={50} src="/html5logo.png" alt="HTML5">
                             </Image>
-                            <h4>HTML</h4>
+                            <h4>HTML/CSS</h4>
                         </div>
                         <div className="skill">
-                            <Image className="logoPicture" height={50} width={50} src="/csslogo.png" alt="css">
+                            <Image className="logoPicture" height={50} width={50} src="/nextjslogo.png" alt="css">
                             </Image>
-                            <h4>CSS</h4>
+                            <h4>NextJS</h4>
                         </div>
                         <div className="skill">
                             <Image className="logoPicture" height={50} width={50} src="/reactlogo.png" alt="React">
@@ -69,7 +69,7 @@ export default function Skills() {
                             <Image className="logoPicture" height={50} width={50} src="/sqllogo.png" alt="SQL">
                             </Image>
                             <h4>SQL</h4>
-                        </div>                        
+                        </div>
                     </div>
             </div>
         </section>

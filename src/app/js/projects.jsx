@@ -134,9 +134,10 @@ export default function Projects() {
                             <dl className="courseList">
                                 <div id="personalWebsite" className="pProjectData" style={{display: "block"}}>
                                     <dt>Personal Webpage | SU2024</dt>
-                                    <dd>Built a personal resume webpage using React, JavaScript, HTML and Python.  Skills developed include:
+                                    <dd>Built a personal resume webpage using React and NextJS. Skills developed include:
                                         <ul className="courseList">
-                                            <li>React, JavaScript, Python</li>
+                                            <li>JavaScript</li>
+                                            <li>React and NextJS</li>
                                             <li>HTML & CSS</li>
                                             <li>Deploying on AWS and registering a domain</li>
                                         </ul>

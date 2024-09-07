@@ -41,7 +41,7 @@ export default function Academics() {
                     <p className="paragraph1">
                         University of Michigan, Ann Arbor, MI | 3.514 GPA | Graduating WI25
                         <br></br>
-                        Bachelors of Science in Engineering in Computer Science with a Minor in Mathematics
+                        Bachelor of Science in Engineering in Computer Science with a Minor in Mathematics
                     </p>
                     <div className="academicsTabMenu">
                         <h3 id="academicsTabHead">Computer Science</h3>

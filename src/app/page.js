@@ -4,6 +4,7 @@ import Academics from './js/academics.jsx';
 import Skills from './js/skills.jsx';
 import Projects from './js/projects.jsx';
 import Experience from './js/experience.jsx';
+import Image from 'next/image';
 
 export default function Home() {
   return (
@@ -11,7 +12,8 @@ export default function Home() {
           <div className="navMenu">
               <div>
                   <a href="#title" className="titleButton">
-                      <h1>Alex G Nunez-Carrasquillo</h1>
+                        <Image className="logoPicture" height={50} width={50} src="/logo.png" alt="Alex Nunez-Carrasquillo">
+                        </Image>
                   </a>
               </div>
               <div className="navButtons">
@@ -37,7 +39,7 @@ export default function Home() {
                       <br></br>
                       (787) 636-8789
                       <br></br>
-                      LinkedIn
+                      <a href='https://www.linkedin.com/in/anunezcarrasquillo/'>LinkedIn</a>
                   </p>
               </div>
               <p className="footerText">
